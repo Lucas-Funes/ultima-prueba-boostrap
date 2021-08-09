@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(168, 160, 160);
+}
+
+@media (max-width: 480px) {
+  #titular {
+    color: white;
+  }
+  #titular2 {
+    color: white;
+    font-size: 18px;
+    background-color: rgb(190, 59, 59);
+  }
+  #subtitulo {
+    color: white;
+    font-size: 15px;
+  }
+  #texto {
+    color: whitesmoke;
+    font-size: 13px;
+  }
+}
